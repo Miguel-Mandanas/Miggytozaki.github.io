@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Welcome to Miggy's Github!
+##### Owned by Miguel Alfred Mandanas (*Miggy*)
+![This is an image](https://c.tenor.com/LKokThiOtR0AAAAC/sana-twice.gif)
 
-You can use the [editor on GitHub](https://github.com/Miguel-Mandanas/miggytozaki.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## This is my spotify playlist~!
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4uCqmKHgDymg3C4OUc1buO?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-```markdown
-Syntax highlighted code block
+## These are some of my favorite playlists to listen to!!
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX9tPFwDMOaN1?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DX0hAXqBDwvwI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DXbvIwPsyNnKl?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-# Header 1
-## Header 2
-### Header 3
+## Here are some of my favorite artists :DD
+### -Twice
+![This is an image](https://i.pinimg.com/736x/08/c1/36/08c136a951ac401373d3b2ed092d8f72.jpg)
+### -Red Velvet
+![This is an image](https://www.nme.com/wp-content/uploads/2021/06/redvelvet-psycho-2019.jpg)
+### -Mitski
+![This is an image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mitski-byebruyildiz-heat-lightning-1643991602.jpeg)
+### -Beach Bunny
+![This is an image](https://www.rollingstone.com/wp-content/uploads/2020/02/BeachBunny.jpg)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Miguel-Mandanas/miggytozaki.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# That's it for now~~ Bye and stay safe! :D
